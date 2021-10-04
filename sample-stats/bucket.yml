@@ -1,0 +1,6 @@
+flows:
+  a747c391-4263-47f6-b3e8-57e9de64bd26: {ver: 1, file: RandomEvents.snapshot, comments: initial
+      commit, author: anonymous, created: 1633374496433, flowName: RandomEvents, flowDesc: A
+      sample flow group for the NiFi CI/CD demo}
+layoutVer: 1
+bucketId: 1483f900-70be-4e12-b0e3-06d957ae23d1
